@@ -16,5 +16,5 @@
 + 详细使用方法移步[这里](https://neko.re/archives/128.html)
 
 ### 使用 Docker
-+ yukinococo/emby_crack:unix-x64（Unix）
-+ yukinococo/emby_crack:windows-x64 （Windows）
++ `yukinococo/emby_crack:unix-x64`（Unix）
++ `yukinococo/emby_crack:windows-x64` （Windows）
